@@ -1,17 +1,16 @@
 
 # AI Case Study
-
+```
 Columbia University
 Module 1 Assignment 
- 
-
-
 Student: Laith Yousif 
-
+```
 ### 1. Overview and Origin
 
 #### Name of the Company:
 - Affirm Holdings, Inc.
+
+![Affirm Logo](/images/affirm-logo.png)
 
 #### When was the company incorporated?
 - Affirm was founded in 2012.
@@ -101,14 +100,14 @@ Each competitor offers unique features and services in the BNPL space, with Affi
 ---
 
 ### Addendum: Sources Cited
-```
+
 1. "Affirm Holdings, Inc." Wikipedia. [Link](https://en.wikipedia.org/wiki/Affirm_Holdings)
 2. "Affirm Holdings, Inc. (AFRM) Company Profile & Overview." Stock Analysis. [Link](https://stockanalysis.com/stocks/afrm/)
 3. "2021 Annual Report - Affirm Holdings, Inc." Investors.affirm.com. [Link](https://investors.affirm.com)
 4. "How Affirm Makes Money: Their Business Model & How it Works." Finty.com. [Link](https://finty.com)
 5. "Affirm Reports Fourth Quarter and Fiscal Year 2022 Results." Affirm Holdings, Inc. [Link](https://investors.affirm.com)
 6. "Affirm Competitors: These Are Its 7 Biggest Rivals." Productmint.com. [Link](https://productmint.com)
-```
+
 
 
 
