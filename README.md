@@ -1,5 +1,9 @@
+
 # AI Case Study
-Module 1 Assignment  - Columbia University 
+```
+Module 1 Assignment 
+Columbia University 
+```
 
 ### 1. Overview and Origin
 
