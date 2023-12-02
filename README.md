@@ -1,12 +1,13 @@
 
 # AI Case Study
-```
+
+Columbia University
 Module 1 Assignment 
-Columbia University 
-```
-```
-Student Laith Yousif 
-```
+ 
+
+
+Student: Laith Yousif 
+
 ### 1. Overview and Origin
 
 #### Name of the Company:
@@ -49,6 +50,7 @@ Student Laith Yousif
 - The FinTech industry, especially in the Buy Now, Pay Later (BNPL) segment, has seen significant growth and innovation, with key trends including the rise of AI for credit assessments, expansion of e-commerce partnerships, and focus on transparency and consumer-friendly payment options.
 
 #### What are the other major companies in this field?
+
 1. **Klarna:** Swedish-based FinTech company offering BNPL and other online financial services.
 2. **Afterpay:** Australian FinTech company focusing on BNPL, known for charging additional fees for late payments.
 3. **Sezzle:** U.S.-based BNPL company offering interest-free installment plans at selected partner stores.
@@ -99,14 +101,14 @@ Each competitor offers unique features and services in the BNPL space, with Affi
 ---
 
 ### Addendum: Sources Cited
-
+```
 1. "Affirm Holdings, Inc." Wikipedia. [Link](https://en.wikipedia.org/wiki/Affirm_Holdings)
 2. "Affirm Holdings, Inc. (AFRM) Company Profile & Overview." Stock Analysis. [Link](https://stockanalysis.com/stocks/afrm/)
 3. "2021 Annual Report - Affirm Holdings, Inc." Investors.affirm.com. [Link](https://investors.affirm.com)
 4. "How Affirm Makes Money: Their Business Model & How it Works." Finty.com. [Link](https://finty.com)
 5. "Affirm Reports Fourth Quarter and Fiscal Year 2022 Results." Affirm Holdings, Inc. [Link](https://investors.affirm.com)
 6. "Affirm Competitors: These Are Its 7 Biggest Rivals." Productmint.com. [Link](https://productmint.com)
-
+```
 
 
 
