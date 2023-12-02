@@ -99,14 +99,14 @@ Each competitor offers unique features and services in the BNPL space, with Affi
 
 ---
 
-### Addendum: Sources Cited
+### Sources
 
-1. "Affirm Holdings, Inc." Wikipedia. [Link](https://en.wikipedia.org/wiki/Affirm_Holdings)
-2. "Affirm Holdings, Inc. (AFRM) Company Profile & Overview." Stock Analysis. [Link](https://stockanalysis.com/stocks/afrm/)
-3. "2021 Annual Report - Affirm Holdings, Inc." Investors.affirm.com. [Link](https://investors.affirm.com)
-4. "How Affirm Makes Money: Their Business Model & How it Works." Finty.com. [Link](https://finty.com)
-5. "Affirm Reports Fourth Quarter and Fiscal Year 2022 Results." Affirm Holdings, Inc. [Link](https://investors.affirm.com)
-6. "Affirm Competitors: These Are Its 7 Biggest Rivals." Productmint.com. [Link](https://productmint.com)
+1. [Affirm Holdings, Inc. Wikipedia.](https://en.wikipedia.org/wiki/Affirm_Holdings)
+2. [Affirm Holdings, Inc. (AFRM) Company Profile & Overview. Stock Analysis](https://stockanalysis.com/stocks/afrm/)
+3. [2021 Annual Report - Affirm Holdings, Inc. Investors.affirm.com.](https://investors.affirm.com)
+4. [How Affirm Makes Money: Their Business Model & How it Works. Finty.com](https://finty.com)
+5. [Affirm Reports Fourth Quarter and Fiscal Year 2022 Results. Affirm Holdings, Inc.](https://investors.affirm.com)
+6. [Affirm Competitors: These Are Its 7 Biggest Rivals.](https://productmint.com)
 
 
 
